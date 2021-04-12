@@ -1,4 +1,4 @@
-# Dr Emma Karoune's CV
+# Dr Emma Karoune's (nee Harvey) CV
 
 ### ORCID: 0000-0002-6576-6053
 
@@ -32,6 +32,7 @@ Information Technology Short Course Higher Level.
 
 ## Work experience
 * **Research Associate and Community Manager for DECOVID project, The Alan Turing Institute** – 01/2021 to present. I am responsible for co-ordinating the different teams of data analysts and clinicians working on the project. I ensure communication is effective throughout the project by maintain the Github repositories, using different communication channels to pass on information and ensuring efficient workflow streams. I am also contributing to The Turing Way by writing new chapters concerning scientific communication such as how to write collaborative academic papers and how to deal with authorship on collaborative projects. 
+
 * **Independent researcher (in collaboration with Historic England)** – 09/2019- present (2 days – supported by several research grants). Open archaeobotanical research specialising in phytolith analysis. I am currently working on two projects: i) an open project concerning the application of phytolith analysis on British Archaeological sites including investigations into the methodologies used in phytolith analysis to build more robust and reproducible methods; ii) the development of open science practices in phytolith research. The later project has focused initially on assessing the extent of open science in this field and starting to build an open research community (see my project page: https://osf.io/qp68n/). Moving forward, I am collaborating, with my newly formed working group, to expand and consolidate this community, and we have applied for a European Open Science Cloud Digital Life Science Grant to fund a FAIRification project, in which I will be the Principal Investigator. 
 
 * **SEN Science Teacher, The Harbour Medical School**, 02/2018 to 12/2020 (2 days).
@@ -77,5 +78,34 @@ Giving talks to secondary school students and tours of the University.
 * Institute of Archaeology Fieldwork Awards – 2003-2006.
 * Association of Environmental Archaeology Research Grant – to initiate work on phytolith reference collection - 2019.
 * Botanical Society for Britain and Ireland Research Grant – to fund fieldwork to establish reference collection – 2020.
+
+## Associations with positions
+* Ordinary Committee Member – Association of Environmental Archaeology.
+* Lead for International Committee of Open Phytolith Science. – International Phytolith Society.
+* Part of Science Communication Project (Copy Editor) – Palaeoecology Special Interest Group – British Ecological Society.
+
+## Training courses
+* Open Life Science Cohort 2 – September to December 2020 – ‘Creating community awareness of open science practices in phytolith research’ – see here for the project page.
+* PalaeoSIG Pollen modelling workshop – June 2020.
+* PalaeoSIG scientific writing and communication workshop – attended online 13th -15th May 2020.
+
+## Blog
+* [The Open Archaeobotanist](https://ekaroune.github.io/The-Open-Archaeobotanist/)
+
+## List of publications – Emma Karoune (nee Harvey) – listed from oldest to most recent
+* **Harvey, E. L.** and D. Q. Fuller, 2005. Investigating crop processing using phytolith analysis: the example of rice and millets. *Journal of Archaeological Science* 32, pp. 739-752. DOI: https://doi.org/10.1016/j.jas.2004.12.010
+* **Harvey, E.**, D. Q. Fuller, J. N. Pal and M. C. Gupta, 2005. Early agriculture of Neolithic Vindyhas (North-Central India), in Franke-Vogt, U. and Weisshaar, J., *South Asian Archaeology 2003*. Proceedings of the European Association for South Asian Archaeology Conference, Bonn, Germany, 7th - 11th July 2003. Aachen: Linden Soft, 329-334.
+* Fuller, D. Q. and **E. L. Harvey**, 2006. The Archaeobotany of Indian Pulses: identification, processing and evidence for cultivation. *Environmental Archaeology* 11(2), 219-246. DOI: https://doi.org/10.1179/174963106x123232
+* **Harvey, E. L.**, D. Q Fuller, R. K. Mohanty and B. Mohanta, 2006. Early Agriculture in Orissa: Some Archaeobotanical Results and Field Observations on the Neolithic. *Man and Environment* 31(2), 21-32.
+* Qin, L., D. Q. Fuller and **E. Harvey**, 2006. Subsistence of Hemudu Site, and reconsideration of issues in the study of early rice from Lower Yangzte. Dongfang Kaogu *[Oriental Archaeology]* 3, 307-350 [in Chinese].
+* Fuller, D.Q., **E. Harvey** and L. Qin, 2007. Presumed domestication? Evidence for wild rice cultivation and domestication in the fifth millennium BC of the Lower Yangzte region. *Antiquity* 81(312), 316-331. DOI: https://doi.org/10.1017/S0003598X0009520X
+* Fuller, D.Q., L. Qin and **E. Harvey**, 2008. Rice archaeobotany revisited: Comments on Liu et al (2007) *Antiquity* 82 (315).
+* Fuller, D.Q., L. Qin and **E. Harvey**, 2008. Evidence for a late onset of agriculture in the Lower Yangzi region and challenges for an archaeobotany of rice. In Sanchez-Mazas,A., Blench,R. Ross,M.D., Peiros,I., Lin,M. (eds.) *Past Human Migrations in East Asia. Matching Archaeology, Linguistics and Genetics*. London: Routledge, 40-83 ISBN 978-0-415-39923-4.
+* Fuller, D.Q, L. Qin, and **E. Harvey**, 2008. A critical assessment of Early Agriculture in East Asia, with emphasis on Lower Yangtze rice domestication. *Pragdhara* (Journal of the Uttar Pradesh State Archaeology Department) 18, 17-52.
+* Fuller, D.Q., L. Qin and **E. Harvey**, 2009. An evolutionary model for Chinese rice domestication: reassessing the data of the Lower Yangtze region. In *New Approaches to Prehistoric Agriculture*, edited by Sung Mo Ahn and June-Jeong Lee, 2009, Seoul Sahoi Pyoungnon, 312-345.
+* Weisskopf, A., **E. Harvey**, E. Kingwell-Banham, M. Kajale, R. Mohanty, and D.Q. Fuller, 2014. Archaeobotanical implications of phytolith assemblages from cultivated rice systems, wild rice stands and macro-regional patterns. *Journal of Archaeological Science* 51, 43-53. DOI: https://doi.org/10.1016/j.jas.2013.04.026
+* Kingwell-Banham, E., **E. Karoune (nee Harvey)**, R. K. Mohanty and D.Q. Fuller, 2018. Archaeobotanical investigations into Golbai Sasan and Gopalpur, Two Neolithic-Chalcolithic Settlements of Odisha. *Ancient Asia* 9/5, 1-14. DOI: http://doi.org/10.5334/aa.164
+* **Karoune, E**, 2020. Data from assessing open science practices in phytolith research. *Journal of Open Archaeology Data*, 8(1), p.6. DOI: http://doi.org/10.5334/joad.67
+* **Karoune, E**, 2020.  Getting started with Github, in *The Turing Way*. Contributors record link: https://the-turing-way.netlify.app/afterword/contributors-record.html#emma-karoune 
 
 
