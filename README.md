@@ -108,4 +108,23 @@ Giving talks to secondary school students and tours of the University.
 * **Karoune, E**, 2020. Data from assessing open science practices in phytolith research. *Journal of Open Archaeology Data*, 8(1), p.6. DOI: http://doi.org/10.5334/joad.67
 * **Karoune, E**, 2020.  Getting started with Github, in *The Turing Way*. Contributors record link: https://the-turing-way.netlify.app/afterword/contributors-record.html#emma-karoune 
 
+## Forthcoming publications
+* **Karoune, E**, in review. Assessing open science practices in phytolith research, Open Quaternary. Find pre-print here: https://osf.io/fa7q3/ 
+* **Karoune, E**, forthcoming. Open Environmental Archaeology means Sustainable Environmental Archaeology. Invited article for special issue of the Journal ‘Environmental Archaeology’.
+* **Karoune, E** and S. Elliot, forthcoming. The Northwest European Void: untapped potential. An invited chapter in ‘Phytoliths in Archaeology’, to be published by Oxbow Books as part of their Studying Scientific Archaeology Series. 
+* ***Karoune, E** and D.Q. Fuller, forthcoming. To measure or not to measure. That is the question? Whether we should be using morphometrics to inform our identification of archaeological phytolith remains. 
+
+## List of conference talks/posters
+* 24/04/2021 - Association of Environmental Archaeology Spring Conference on Open Science - Presentation: 'Striving for Reproducibility in Environmental Archaeology'.
+* 31/03/2021 - Collaborations Workshop 2021, Software Sustainability Institute - Presentation: 'Designing The Turing Way's Guide for Project Design'.  
+* 03/03/2021 – Software Sustainability Institute, Research Software Camp, Zero to Binder Workshop – Presentation: ‘Introduction to The Turing Way’.
+* 14/12/2020 - Brainhack 2020 ignite talk – Presentation: ‘Reproducibility and collaborative working’.
+* 24/11/2020 - Palaeopercs early career webinar series – Presentation: ‘Open Science in Phytolith Research and Beyond’.
+* 21/11/2020 - Botanical Society of Britain and Ireland Annual Exhibition Meeting – Poster: ‘Phytolith reference collection of coastal plant communities at Farlington marshes, Portsmouth, Hampshire’.
+* 15/09/2020 - Association of Environmental Archaeology Autumn webinar series on Sustainability in Environmental Archaeology – Presentation: ‘Open Environmental Archaeology means Sustainable Environmental Archaeology’.
+* 15 and 16/02/2020 - Integrated Microscopy Approaches in Archaeobotany Workshop – Poster: E Karoune & D.Q. Fuller. A case for reproducible science in phytolith morphometrics: an independent study of double-peaked glume cells of rice. DOI: 10.13140/RG.2.2.12234.31686
+* 21/02/2014, Eden Protocol Conference. Presentation: School dinners: introducing an evolutionary perspective to inner-city schools.
+* 07/2005, European Association of South Asian Archaeology Conference, Presentation: E. Harvey, Exploring new frontiers: archaeobotanical investigation of prehistoric sites in Orissa.
+* 10/2004, 5th Meeting for phytolith research, Moscow, International Phytolith Society. Presentation: E. Harvey, D. Fuller, E. Mohanty and K. Basa. Investigating early agricultural systems in Northern and Eastern India using phytoliths and macro-botanical remains. 
+* 07/2003, European Association of South Asian Archaeology Conference, Poster: E. Harvey, Fuller, D. Q, Pal, J. N. and Gupta, M. C. Early agriculture of Neolithic Vindyhas (North-Central India). 
 
