@@ -8,19 +8,19 @@
 
 ## Qualifications
 1.	**Further Education**
-* PGCE in Secondary science at Kingston University, 09/06 – 05/07.
+* **PGCE in Secondary science at Kingston University, 09/06 – 05/07.**
 Specialism in Biology particularly ecology and plant biology.
 
-* PhD at Institute of Archaeology, University College London, 09/02- 05/06. 
+* **PhD at Institute of Archaeology, University College London, 09/02- 05/06.** 
 Thesis title – Early Agricultural communities in Northern and Eastern India. 
 Supported by an AHRC studentship grant.
 
-* MSc in Palaeoecology of Human Societies at Institute of Archaeology, University College London, 09/01-09/02. 
+* **MSc in Palaeoecology of Human Societies at Institute of Archaeology, University College London, 09/01-09/02.** 
 Thesis title - Investigating Neolithic agriculture using phytolith analysis on two Asian sites (Yiluo River Valley, Henan Province, China and Mahagara, Uttar Pradesh, India).
 Distinction and winner of the W F Grimes prize for outstanding performance.
 Supported by an AHRC studentship grant.
 
-* BSc in Bioarchaeology at University of Bradford, 09/97-06/01.
+* **BSc in Bioarchaeology at University of Bradford, 09/97-06/01.**
 First class honours including an industrial placement year in which I gained a Diploma of Professional Archaeological studies. 
 
 2.	**Higher Education**
