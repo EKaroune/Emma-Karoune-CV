@@ -94,7 +94,7 @@ Giving talks to secondary school students and tours of the University.
 ## Blog
 * [The Open Archaeobotanist](https://ekaroune.github.io/The-Open-Archaeobotanist/)
 
-## List of publications – Emma Karoune (nee Harvey) – listed from oldest to most recent
+## List of publications – listed from oldest to most recent
 * **Harvey, E. L.** and D. Q. Fuller, 2005. Investigating crop processing using phytolith analysis: the example of rice and millets. *Journal of Archaeological Science* 32, pp. 739-752. DOI: https://doi.org/10.1016/j.jas.2004.12.010
 * **Harvey, E.**, D. Q. Fuller, J. N. Pal and M. C. Gupta, 2005. Early agriculture of Neolithic Vindyhas (North-Central India), in Franke-Vogt, U. and Weisshaar, J., *South Asian Archaeology 2003*. Proceedings of the European Association for South Asian Archaeology Conference, Bonn, Germany, 7th - 11th July 2003. Aachen: Linden Soft, 329-334.
 * Fuller, D. Q. and **E. L. Harvey**, 2006. The Archaeobotany of Indian Pulses: identification, processing and evidence for cultivation. *Environmental Archaeology* 11(2), 219-246. DOI: https://doi.org/10.1179/174963106x123232
