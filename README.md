@@ -24,9 +24,11 @@ Supported by an AHRC studentship grant.
 First class honours including an industrial placement year in which I gained a Diploma of Professional Archaeological studies. 
 
 2.	**Higher Education**
+
 3 A-levels at Bishop Luffa C.E. School, Chichester, West Sussex, 09/95-06/97.
 
 3.	**Secondary School Education**
+
 11 GCSE's at Bishop Luffa C.E. School, Chichester, West Sussex, 09/93-06/95.
 Information Technology Short Course Higher Level.
 
