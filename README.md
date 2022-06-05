@@ -7,10 +7,10 @@
 ### Teacher reference number – 06/59932
 
 ## Qualifications
-* **2007**	PGCE in Secondary Science Education at Kingston University. Specialism in Biology particularly ecology and plant biology.
-* **2006**	PhD at Institute of Archaeology, University College London. Funded by AHRC studentship. Thesis title – Early Agricultural communities in Northern and Eastern India. 
-* **2002**	MSc in Palaeoecology of Human Societies at Institute of Archaeology, University College London.  Thesis title - Investigating Neolithic agriculture using phytolith analysis on two Asian sites (Yiluo River Valley, Henan Province, China and Mahagara, Uttar Pradesh, India). Funded by AHRC studentship. Distinction and winner of the W F Grimes prize for outstanding performance.
-* **2001**	BSc in Bioarchaeology at University of Bradford. First class honours including an industrial placement year in 
+* **2007**	**PGCE in Secondary Science Education at Kingston University.** Specialism in Biology particularly ecology and plant biology.
+* **2006**	**PhD at Institute of Archaeology, University College London.** Funded by AHRC studentship. Thesis title – Early Agricultural communities in Northern and Eastern India. 
+* **2002**	**MSc in Palaeoecology of Human Societies at Institute of Archaeology, University College London.**  Thesis title - Investigating Neolithic agriculture using phytolith analysis on two Asian sites (Yiluo River Valley, Henan Province, China and Mahagara, Uttar Pradesh, India). Funded by AHRC studentship. Distinction and winner of the W F Grimes prize for outstanding performance.
+* **2001**	**BSc in Bioarchaeology at University of Bradford.** First class honours including an industrial placement year in 
 which I gained a Diploma of Professional Archaeological studies. 
 
 ## Current positions
@@ -19,7 +19,6 @@ which I gained a Diploma of Professional Archaeological studies.
 * **UK-Elixir FAIR Data Stewardship Fellow** - 2021-to present. Fellowship to develop training materials for FAIR data management and to promote FAIR data stewardship in the academic community. 
 * **Software Sustainability Fellow** -  2021- to present. Fellowship to promote sustainable research in archaeology and other related areas. Planning and running of workshops on open science skills. 
 * **Open Science Mentor and Expert - Open Life Science** - 01/2021 to present. Mentoring projects in open science leadership and presenting at cohort calls during the programme. 
-
 
 ## Grants awarded since 2019
 * EOSC-Life Digital Life Science Open Call grant – Project title: Towards FAIRer Phytolith data - 2021-2022. 
