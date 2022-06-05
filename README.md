@@ -42,18 +42,18 @@ which I gained a Diploma of Professional Archaeological studies.
 
 ## List of conference presentations given and workshops organised 2021-2022
 * 04/2022 – Github training sessions for the Open Phytolith Community – 3 workshops: https://github.com/open-phytoliths/ICOPS-training-2022. 
-•	23/03/2022 - EOSC-Life Annual General Meeting – Presentation: Increasing the FAIRness of Phytolith Data.
-•	07/03/2022 – 2nd Virtual Conference of Women Archaeologists and Palaeontologists – Presentation: Open Science in Archaeobotany.
-•	14/01/2022 – Opening Doors Training Project – Presentation: Open Science – What is it all about?.
-•	10/12/2021 – UK Conference of Computer Applications and Quantitative Methods in Archaeology – Presentation: Community Building to move forward with FAIR. 
-•	19 & 20/11/2021 – Association of Environmental Archaeology – Workshop: Open Science Skills. 
-•	15/10/2021 – University of Durham – Workshop: Reproducible Research in Archaeology. 
-•	21/09/2021 – Open Science FAIR – Workshop: Good practices for collaboration workshop. 
-•	28/09/2021 – EOSC-Life work package 3 meeting – Presentation: Increasing FAIRness of Phytolith Data. 
-•	07/09/2021 – International Meeting of Phytolith Research – Presentation: Towards FAIR Phytolith data.
-•	27/04/2021 – ReproducibiliTea at University of Portsmouth – Presentation: Introduction to The Turing Way.
-•	24/04/2021 - Association of Environmental Archaeology Spring Conference on Open Science – Presentation: ‘Striving for Reproducibility in Environmental Archaeology’. 
-•	31/03/2021 – Software Sustainability Institute, Collaboration Workshop 2021 – Workshop: Designing The Turing Way Guide to Project Design. 
-•	03/03/2021 – Software Sustainability Institute, Research Software Camp, Zero to Binder Workshop – Presentation: ‘Introduction to The Turing Way’.
+* 23/03/2022 - EOSC-Life Annual General Meeting – Presentation: Increasing the FAIRness of Phytolith Data.
+* 07/03/2022 – 2nd Virtual Conference of Women Archaeologists and Palaeontologists – Presentation: Open Science in Archaeobotany.
+* 14/01/2022 – Opening Doors Training Project – Presentation: Open Science – What is it all about?.
+* 10/12/2021 – UK Conference of Computer Applications and Quantitative Methods in Archaeology – Presentation: Community Building to move forward with FAIR. 
+* 19 & 20/11/2021 – Association of Environmental Archaeology – Workshop: Open Science Skills. 
+* 15/10/2021 – University of Durham – Workshop: Reproducible Research in Archaeology. 
+* 21/09/2021 – Open Science FAIR – Workshop: Good practices for collaboration workshop. 
+* 28/09/2021 – EOSC-Life work package 3 meeting – Presentation: Increasing FAIRness of Phytolith Data. 
+* 07/09/2021 – International Meeting of Phytolith Research – Presentation: Towards FAIR Phytolith data.
+* 27/04/2021 – ReproducibiliTea at University of Portsmouth – Presentation: Introduction to The Turing Way.
+* 24/04/2021 - Association of Environmental Archaeology Spring Conference on Open Science – Presentation: ‘Striving for Reproducibility in Environmental Archaeology’. 
+* 31/03/2021 – Software Sustainability Institute, Collaboration Workshop 2021 – Workshop: Designing The Turing Way Guide to Project Design. 
+* 03/03/2021 – Software Sustainability Institute, Research Software Camp, Zero to Binder Workshop – Presentation: ‘Introduction to The Turing Way’.
 
 
